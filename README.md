@@ -13,3 +13,10 @@ This project explores **exoplanets using Augmented Reality (AR)** to create an i
 ## 🛠️ Tech Stack
 - **AR Development:** Unity (AR Foundation)
 - **ARCore / ARKit:** For augmented reality on Android & iOS.
+
+## Contact
+
+For any inquiries or feedback, please contact:
+
+- **Sathya Pushana Pramod**: [pushanapramod@gmail.com](mailto:pushanapramod@gmail.com)
+- **GitHub**: [SPPramod](https://github.com/SPPramod)
